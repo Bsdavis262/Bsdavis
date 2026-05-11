@@ -1,12 +1,11 @@
 # Hello, I'm Brandon
 <a href="https://linkedin.com/in/brandon-davis-434721190"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-Recent cybersecurity graduate focused on SOC operations, threat detection, incident response, and SIEM monitoring. Building hands-on experience through labs, CTFs, and security projects using Splunk, Wireshark, Linux, and cloud security tools.
+Recent cybersecurity graduate passionate about SOC operations, threat detection, incident response, and blue team security. Building hands-on experience through labs, CTFs, and cybersecurity projects while continuously learning and growing in the field.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Developing expertise in threat detection, incident response, SIEM monitoring, and blue team operations through hands-on projects, labs, and continuous learning.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
